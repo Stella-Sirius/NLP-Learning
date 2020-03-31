@@ -2,6 +2,10 @@
 This is my practice notebook of NLP.
 This notebook is the practice version of the textbook "Natural Language Processing with Python" by Steven Bird, Ewan Klein and Edward Loper.
 
+## Book Website
+
+* [Natural Language Processing with Python](www.nltk.org/book/)
+
 ## Software Requirements
 install nltk
 ```
